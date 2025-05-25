@@ -40,6 +40,7 @@ dependencies:
   # Utilities
   dartz: ^0.10.1  # For functional programming (Either type)
   logger: ^2.4.0  # For better logging
+  iconsax: ^0.0.8
 
 dev_dependencies:
   flutter_test:
@@ -67,3 +68,4 @@ flutter:
   # Add assets folder for images/icons
   assets:
     - assets/
+    - assets/images/
