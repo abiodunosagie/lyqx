@@ -10,7 +10,7 @@ import 'package:lyqx/viewmodel/cart_cubit.dart';
 import '../../components/custom_bottom_nav.dart';
 
 class CartScreen extends StatelessWidget {
-  const CartScreen({Key? key}) : super(key: key);
+  const CartScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
