@@ -15,7 +15,16 @@ architecture, state management, and UI design.
 
 ## Screenshots
 
-*Add your screenshots here*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae4ed6ab-6fdf-438f-9838-bb689e0cfcb3" width="150px" alt="Catalog" />
+  <img src="https://github.com/user-attachments/assets/83d32250-5913-40a3-8595-852a98b1f49a" width="150px" alt="Product Detail" />
+  <img src="https://github.com/user-attachments/assets/f6303741-b12e-47cb-91ba-f0afa1169a36" width="150px" alt="Cart" />
+  <img src="https://github.com/user-attachments/assets/0d5f5a97-18e6-40ec-b4ad-18d81faeb4a3" width="150px" alt="Wishlist" />
+  <img src="https://github.com/user-attachments/assets/22beb7a1-7159-4882-849a-775276a8447e" width="150px" alt="Login" />
+  <img src="https://github.com/user-attachments/assets/3f60ed03-0201-449d-b204-c6d3e999efd1" width="150px" alt="Signup" />
+  <img src="https://github.com/user-attachments/assets/4b9b62f7-fb53-4ed5-957f-9e9f3604ce73" width="150px" alt="Settings" />
+  <img src="https://github.com/user-attachments/assets/064e6b13-f887-4326-939c-f4c0f5ada932" width="150px" alt="Dark Mode" />
+</div>
 
 ## Technologies Used
 
